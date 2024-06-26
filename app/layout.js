@@ -1,3 +1,4 @@
+//all here will be desplayed everywhere
 import { Inter } from "next/font/google";
 import "./globals.css";
 
